@@ -7,5 +7,5 @@ Within the 'Data' folder, three FASTA databases are available for running with t
 Lakin, S. M.; Dean, C.; Noyes, N. R.; Dettenwanger, A.; Ross, A. S.; Doster, E.; Rovira, P.; Abdo, Z.; Jones, K. L.; Ruiz, J.; et al. MEGARes: An Antimicrobial Resistance Database for High Throughput Sequencing. Nucleic Acids Res. 2017, 45 (D1), D574–D580.
 2. The COSMIC cancer database<br />
 Forbes, S. A.; Beare, D.; Gunasekaran, P.; Leung, K.; Bindal, N.; Boutselakis, H.; Ding, M.; Bamford, S.; Cole, C.; Ward, S.; et al. COSMIC: Exploring the World’s Knowledge of Somatic Mutations in Human Cancer. Nucleic Acids Res. 2015, 43 (D1), D805–D811.
-3. A custom compiled databse of other genetic diseases<br />
+3. A custom compiled database of other genetic diseases<br />
 Inspired by the NIH Undiagnosed Diseases Network
